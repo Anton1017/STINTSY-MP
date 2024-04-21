@@ -1,7 +1,3 @@
-Certainly! Here's a draft for your GitHub README:
-
----
-
 # Stellar Classification with SDSS Data
 
 ## Overview
